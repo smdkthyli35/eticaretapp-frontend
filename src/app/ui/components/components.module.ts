@@ -8,9 +8,7 @@ import { BasketsModule } from './baskets/baskets.module';
 
 
 @NgModule({
-  declarations: [
-    ProductsComponent
-  ],
+  declarations: [],
   imports: [
     CommonModule,
     ProductsModule,
